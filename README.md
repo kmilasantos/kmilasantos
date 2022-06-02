@@ -1,5 +1,5 @@
 👋 Olá! Bem vindo(a) ao meu GitHub. <br>
-👩‍🎓 Sou formada em Ciência da Computação e Pós-Graduada em Businness Analytics. <br>
+👩‍🎓 Meu nome é Camila, sou formada em Ciência da Computação e Pós-Graduada em Businness Analytics. <br>
 👀 Estou interessada em análise de dados, ciência de dados e desenvolvimento fullstack. <br> 
 🌱 Atualmente aprendendo HTML5, CSS3, Java Script, Angular, JAVA e Spring Framework. <br>
 💞️ Também estou participando do Santander Bootcamp Fullstack Developer. <br>
