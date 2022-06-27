@@ -2,7 +2,7 @@
 👩‍🎓 Meu nome é Camila, sou formada em Ciência da Computação e Pós-Graduada em Businness Analytics. <br>
 👀 Estou interessada em análise de dados, ciência de dados e desenvolvimento fullstack. <br> 
 🌱 Atualmente estou aprendendo HTML5, CSS3, Java Script, Angular, JAVA e Spring Framework. <br>
-💞️ Também estou participando do Santander Bootcamp Fullstack Developer. <br>
+💞️ Também estou participando do Santander Bootcamp Fullstack Developer da DIO. <br>
 
 <div>
 <!---<a href="https://www.facebook.com/camilasantos.ro" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230047B3?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
