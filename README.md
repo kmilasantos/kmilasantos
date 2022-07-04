@@ -1,7 +1,8 @@
-👋 Olá! Bem vindo(a) ao meu GitHub, meu nome é Camila. <br>
+👋 Olá estranho, bem vindo(a) ao meu GitHub. <br>
+🌻 Meu nome é **Camila**, mas pode me chamar de **Mila**! <br>
 👩‍🎓 Sou formada em Ciência da Computação pela Universidade Federal de Rondônia (2019); <br>
-📚 Pós-graduada em Businness Analytics pelo IPOG (2021); <br>
-👀 Estou interessada em Análise de Dados, Ciência de Dados e desenvolvimento FullStack; <br> 
+📚 Pós-graduada em Business Analytics pelo IPOG (2021); <br>
+👀 Estou interessada em Análise de Dados, Ciência de Dados e desenvolvimento FullStack; e <br> 
 👩‍💻 Atualmente estou aprendendo HTML5, CSS3, Java Script, Angular, JAVA e Spring Framework no **Santander Bootcamp Fullstack Developer da DIO**. <br>
 
 <div>
