@@ -1,5 +1,5 @@
-👋 Olá! Bem vindo(a) ao meu GitHub. <br>
-👩‍🎓 Meu nome é Camila, sou formada em Ciência da Computação pela Universidade Federal de Rondônia (2019) e pós-graduada em Businness Analytics pelo IPOG (2021). <br>
+👋 Olá! Bem vindo(a) ao meu GitHub, meu nome é Camila. <br>
+👩‍🎓 Sou formada em Ciência da Computação pela Universidade Federal de Rondônia (2019) e pós-graduada em Businness Analytics pelo IPOG (2021). <br>
 👀 Estou interessada em Análise de Dados, Ciência de Dados e desenvolvimento FullStack. <br> 
 🌱 Atualmente estou aprendendo HTML5, CSS3, Java Script, Angular, JAVA e Spring Framework no **Santander Bootcamp Fullstack Developer da DIO**. <br>
 
