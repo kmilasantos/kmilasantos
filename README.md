@@ -1,5 +1,5 @@
 👋 Olá estranho, bem vindo(a) ao meu GitHub. <br>
-🌻 Meu nome é **Camila** ou apenas **Mila**, como preferir...<br>
+🌻 Meu nome é ~~Camila~~ ou apenas ~~Mila~~, como preferir...<br>
 👩‍🎓 Sou formada em **Ciência da Computação** pela Universidade Federal de Rondônia (2019); <br>
 📚 Possuo **MBA Executivo em Business Analytics** pelo IPOG (2021); <br>
 👀 Tenho interesse nas áreas de Análise de Dados, Ciência de Dados e Desenvolvimento FullStack; e <br> 
