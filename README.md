@@ -14,7 +14,7 @@ Atualmente estou aprendendo HTML5, CSS3, Java Script, Angular, JAVA e Spring Fra
 <br/>
 <br/>
 
-<div align="center">
+<div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmilasantos&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kmilasantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -24,7 +24,7 @@ Atualmente estou aprendendo HTML5, CSS3, Java Script, Angular, JAVA e Spring Fra
 <br/>
 
   
-<div>
+<div align="center">
 <a href="https://www.facebook.com/camilasantos.ro" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230047B3?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/kmilasantos_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kmilasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
