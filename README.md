@@ -2,7 +2,7 @@
 🌻 Meu nome é ~~Camila~~ ou apenas ~~Mila~~, como preferir...<br>
 👩‍🎓 Sou formada em **Ciência da Computação** pela Universidade Federal de Rondônia (2019); <br>
 📚 Possuo **MBA Executivo em Business Analytics** pelo IPOG (2021); <br>
-👀 Tenho interesse nas áreas de Análise de Dados, Ciência de Dados e Desenvolvimento FullStack; e <br> 
+👀 Tenho interesse nas seguintes áreas: Análise de Dados, Ciência de Dados e Desenvolvimento FullStack; e <br> 
 👩‍💻 Atualmente estou aprendendo *HTML5*, *CSS3*, *Java Script*, *Angular*, *JAVA* e *Spring Framework* através do **Santander Bootcamp Fullstack Developer da DIO**. <br>
 
 <div>
