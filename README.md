@@ -3,11 +3,8 @@
 </p>
 
 <div align="center">
-<h3> Olá! bem vindo(a) ao meu GitHub. </h3>
-Me chamo Camila, tenho 25 anos.</br>
-Sou formada em Ciência da Computação e Pós-graduada em Business Analytics.</br>
-Tenho interesse em Análise de Dados, Ciência de Dados e Desenvolvimento FullStack.  <br> 
-Estou aprendendo HTML5, CSS3, Java Script, Angular, JAVA e Spring Framework pelo Santander Bootcamp Fullstack Developer da DIO. <br>
+Olá, bem vindo(a) ao meu GitHub. </br> Meu nome é <b>Camila</b>! Tenho 25 anos e moro em Porto Velho, Rondônia. </br> Sou formada em Ciência da Computação e Pós-graduada em Business Analytics. </br> </br>Tenho interesse em Análise de Dados, Ciência de Dados e Desenvolvimento FullStack.</br>
+Estou participando do <b>Santander Bootcamp Fullstack Developer da DIO</b>.
 </div>
 
 <br/>
