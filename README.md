@@ -8,16 +8,16 @@ Me chamo Camila, tenho 25 anos.</br>
 Sou formada em Ciência da Computação e Pós-graduada em Business Analytics.</br>
 Tenho interesse nas seguintes áreas: 
 Análise de Dados, Ciência de Dados e Desenvolvimento FullStack.  <br> 
-Atualmente estou aprendendo HTML5, CSS3, Java Script, Angular, JAVA e Spring Framework pelo Santander Bootcamp Fullstack Developer da DIO. <br>
+Estou aprendendo HTML5, CSS3, Java Script, Angular, JAVA e Spring Framework pelo Santander Bootcamp Fullstack Developer da DIO. <br>
 </div>
 
 <br/>
 <br/>
 
-<div>
+<div align="center"">
 <a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmilasantos&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kmilasantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmilasantos&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=kmilasantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <br/>
