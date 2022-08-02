@@ -6,8 +6,7 @@
 <h3> Olá! bem vindo(a) ao meu GitHub. </h3>
 Me chamo Camila, tenho 25 anos.</br>
 Sou formada em Ciência da Computação e Pós-graduada em Business Analytics.</br>
-Tenho interesse nas seguintes áreas: 
-Análise de Dados, Ciência de Dados e Desenvolvimento FullStack.  <br> 
+Tenho interesse em Análise de Dados, Ciência de Dados e Desenvolvimento FullStack.  <br> 
 Estou aprendendo HTML5, CSS3, Java Script, Angular, JAVA e Spring Framework pelo Santander Bootcamp Fullstack Developer da DIO. <br>
 </div>
 
