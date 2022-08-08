@@ -3,7 +3,7 @@
 🌻 Meu nome é <b>Camila</b>, tenho 25 anos e moro em Porto Velho, Rondônia. </br> 
 👩🏽‍🎓 Sou formada em Ciência da Computação e pós-graduada em Business Analytics. </br> 
 💻 Tenho interesse em Análise de Dados, Ciência de Dados e Desenvolvimento FullStack.</br>
-📚 Atualmente estou participando do <b>Santander Bootcamp Fullstack Developer da DIO</b>.
+<!--📚 Atualmente estou participando do <b>Santander Bootcamp Fullstack Developer da DIO</b>.-->
 </div>
 
 <br/>
