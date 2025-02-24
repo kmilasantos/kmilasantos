@@ -10,7 +10,7 @@ Oi! Bem vindo(a) ao meu GitHub!!! </br>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kmilasantos&show_icons=true&theme=default&include_all_commits=true&count_private=true&locale=pt-br"/>
 </div>
 
-<h4>Contate-me:</h4>
+<h3>Contate-me:</h3>
 
 <div>
 <a href="https://www.linkedin.com/in/kmilasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
