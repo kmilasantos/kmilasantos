@@ -1,14 +1,12 @@
 ### Bem-vindo(a) ao meu perfil do GitHub! 👩‍💻
 
-Sou Professora do Ensino Básico, Técnico e Tecnológico na área de Informática, atuando no Instituto Federal de Rondônia (IFRO). Tenho uma sólida trajetória na área de Desenvolvimento Web e sou apaixonada por ensino, tecnologia e aprendizado contínuo. Sempre busco explorar novas ideias e compartilhar conhecimento de forma significativa.
+Sou professora no Instituto Federal de Educação, Ciência e Tecnologia de Rondônia (IFRO), atuando no Ensino Básico, Técnico e Tecnológico na área de Informática. Minha trajetória é marcada por uma sólida experiência em Desenvolvimento Web, aliada à paixão por ensinar, explorar novas tecnologias e incentivar o aprendizado contínuo. Acredito que compartilhar conhecimento de maneira significativa é essencial para o crescimento de todos.
 
-Além do português, meu idioma nativo, tenho domínio em outros dois idiomas:
-- **Inglês**: Atualmente aprimorando minhas habilidades em um curso.  
-- **Espanhol**: Estudando de forma independente para expandir minha fluência.
+Além do português, meu idioma nativo, também me dedico ao aprendizado de outras línguas. Atualmente, estou aprimorando meu inglês por meio de um curso e estudando espanhol de forma independente para expandir ainda mais minha fluência.
 
-Sou motivada por desafios e adoro aprender coisas novas, ampliando meus horizontes constantemente. No tempo livre, valorizo os momentos com minha família, pois acredito no equilíbrio entre trabalho e vida pessoal.
+Movida por desafios e curiosidade, estou sempre em busca de oportunidades para aprender algo novo e ampliar meus horizontes. Nos momentos de lazer, valorizo o tempo com minha família, pois acredito no equilíbrio entre trabalho e vida pessoal como um pilar essencial para o bem-estar.
 
-Sinta-se à vontade para explorar meus repositórios ou entrar em contato! Será um prazer colaborar e trocar ideias! 😊
+Explore meus repositórios e sinta-se à vontade para entrar em contato. Será um prazer trocar ideias e colaborar em novos projetos! 😊
 
 
 
