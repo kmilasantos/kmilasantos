@@ -14,7 +14,7 @@ Explore meus repositórios e sinta-se à vontade para entrar em contato. Será u
 
 <div>
 <a href="https://github.com/kmilasantos">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmilasantos&layout=compact&langs_count=7&theme=default&locale=pt-br"/>
+<img height="200em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmilasantos&layout=compact&langs_count=7&theme=default&locale=pt-br"/>
 </div>
  
 <!---
