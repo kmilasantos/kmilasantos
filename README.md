@@ -7,7 +7,6 @@ Oi! Bem vindo(a) ao meu GitHub!!! </br>
 <div>
 <a href="https://github.com/kmilasantos">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmilasantos&layout=compact&langs_count=7&theme=default&locale=pt-br"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=kmilasantos&show_icons=true&theme=default&include_all_commits=true&count_private=true&locale=pt-br"/>
 </div>
  
 <!---
