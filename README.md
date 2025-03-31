@@ -1,5 +1,3 @@
-# Camila Santos
-
 ### Bem-vindo(a) ao meu perfil do GitHub! 👩‍💻
 
 Sou Professora do Ensino Básico, Técnico e Tecnológico na área de Informática, atuando no Instituto Federal de Rondônia (IFRO). Tenho uma sólida trajetória na área de Desenvolvimento Web e sou apaixonada por ensino, tecnologia e aprendizado contínuo. Sempre busco explorar novas ideias e compartilhar conhecimento de forma significativa.
